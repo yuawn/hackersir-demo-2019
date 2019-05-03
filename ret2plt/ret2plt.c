@@ -6,7 +6,7 @@ int main(){
     setvbuf(stdout,0,2,0);
     setvbuf(stdin,0,2,0);
 
-    system( "echo Hi~" )
+    system( "echo Hi~" );
 
     char buf[0x30];
 
