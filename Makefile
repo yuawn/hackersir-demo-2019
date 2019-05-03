@@ -1,2 +1,2 @@
 all:
-	make -c bof
+	make -C bof
